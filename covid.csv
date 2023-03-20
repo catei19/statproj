@@ -1,0 +1,52 @@
+State,GovPolParty,COVIDVaxRate,PctBlackPop,COVIDDeathRate,MedAgeresident,Bachlevel,MedHouseholdIncome,PrimaryReligion
+Alabama,Republican,7.3,27.2,428.313,39.2,Low,56929,Evangelical Protestant
+Alaska,Republican,13.5,4.8,200.863,34.6,Low,81133,Unaffiliated / None
+Arizona,Democratic,14.9,6.2,410.127,37.9,Moderate,70821,Unaffiliated / None
+Arkansas,Republican,10.6,16.5,430.644,38.3,Low,50784,Evangelical Protestant
+California,Democratic,19.7,7.1,257.929,36.7,Moderate,81575,Catholic
+Colorado,Democratic,21,5.5,243.039,36.9,High,84954,Unaffiliated / None
+Connecticut,Democratic,24.6,13,309.484,41.1,Moderate,80958,Catholic
+Delaware,Democratic,20.6,24.7,341.356,41,Moderate,68687,Unaffiliated / None
+District of Columbia,Democratic,30.8,44.2,203.433,34.1,High,90640,Unaffiliated / None
+Florida,Republican,11.1,17.2,404.372,42.2,Moderate,59734,Evangelical Protestant
+Georgia,Republican,10.1,33,399.598,36.9,Moderate,61497,Evangelical Protestant
+Hawaii,Democratic,21.3,3.2,124.164,39.4,Moderate,82199,Unaffiliated / None
+Idaho,Republican,13.3,1.5,302.115,36.6,Low,76918,Unaffiliated / None
+Illinois,Democratic,19.7,15.5,310.776,38.3,Moderate,79253,Catholic
+Indiana,Republican,10.6,11.2,385.594,37.8,Low,70190,Evangelical Protestant
+Iowa,Republican,19.4,5.4,334.002,38.3,Low,72429,Mainline Protestant
+Kansas,Democratic,15.3,7.6,345.14,36.9,Moderate,75979,Evangelical Protestant
+Kentucky,Democratic,12.1,9.7,404.998,39,Low,55629,Evangelical Protestant
+Louisiana,Democratic,7.3,33.1,390.123,37.2,Low,57206,Evangelical Protestant
+Maine,Democratic,29.8,2.7,217.302,44.8,Moderate,71139,Unaffiliated / None
+Maryland,Democratic,23.4,32,257.672,38.8,High,97332,Unaffiliated / None
+Massachusetts,Democratic,29.9,9.5,305.187,39.6,High,86566,Catholic
+Michigan,Democratic,17.2,15.3,421.514,39.8,Low,64488,Evangelical Protestant
+Minnesota,Democratic,25.8,8.5,227.072,38.1,Moderate,80441,Mainline Protestant
+Mississippi,Republican,6.3,37.9,440.065,37.7,Low,46637,Evangelical Protestant
+Missouri,Republican,14.3,13,323.328,38.7,Low,63594,Evangelical Protestant
+Montana,Republican,15.4,1.2,341.699,40.1,Moderate,64999,Unaffiliated / None
+Nebraska,Republican,16.9,6.4,249.534,36.6,Moderate,78109,Evangelical Protestant
+Nevada,Republican,12.4,12.1,386.701,38.2,Low,64340,Unaffiliated / None
+New Hampshire,Republican,22.8,2.4,218.576,43,Moderate,88841,Unaffiliated / None
+New Jersey,Democratic,16.4,15.2,402.761,40,High,88559,Catholic
+New Mexico,Democratic,21.3,3.2,431.509,38.1,Low,53463,Catholic
+New York,Democratic,17,17.5,401.183,39,Moderate,72920,Catholic
+North Carolina,Democratic,14.6,22.5,270.679,38.9,Moderate,62891,Evangelical Protestant
+North Dakota,Republican,15.2,4.4,292.89,35.2,Moderate,68882,Mainline Protestant
+Ohio,Republican,15.6,14.4,357.162,39.5,Low,62689,Evangelical Protestant
+Oklahoma,Republican,11.6,9.7,453.377,36.7,Low,60096,Evangelical Protestant
+Oregon,Democratic,21.4,3.2,206.888,39.5,Moderate,81855,Unaffiliated / None
+Pennsylvania,Democratic,18.2,12.7,392.759,40.9,Moderate,72627,Catholic
+Rhode Island,Democratic,24.8,9.1,364.465,40,Moderate,74982,Catholic
+South Carolina,Republican,11.3,26.8,347.058,39.7,Low,62689,Evangelical Protestant
+South Dakota,Republican,16.8,3,359.574,37.2,Low,73893,Mainline Protestant
+Tennessee,Republican,9.9,17.3,411.66,38.8,Low,62166,Evangelical Protestant
+Texas,Republican,10.5,13.6,311.651,34.8,Moderate,67404,Evangelical Protestant
+Utah,Republican,14,2.1,164.912,31.1,Moderate,87649,Mormon
+Vermont,Republican,32.8,2.2,145.836,42.8,Moderate,76079,Unaffiliated / None
+Virginia,Republican,20.3,20.9,247.066,38.4,Moderate,80268,Evangelical Protestant
+Washington,Democratic,24.8,5.8,205.952,37.8,Moderate,87648,Unaffiliated / None
+West Virginia,Republican,11.3,5,443.602,42.7,Low,46836,Evangelical Protestant
+Wisconsin,Democratic,21.9,7.7,280.536,39.6,Moderate,69943,Catholic
+Wyoming,Republican,10.9,1.7,345.913,38,Low,71052,Evangelical Protestant
